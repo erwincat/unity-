@@ -1,15 +1,21 @@
 ﻿<Properties StartupConfiguration="{1562515C-92BB-5CCB-7A5F-2EEEB00B7369}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FPSInput.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerCharacter.cs">
     <Files>
       <File FileName="Assets/MouseLook.cs" Line="19" Column="1" />
-      <File FileName="Assets/FPSInput.cs" Line="9" Column="28" />
+      <File FileName="Assets/FPSInput.cs" />
+      <File FileName="Assets/RayShooter.cs" Line="1" Column="1" />
+      <File FileName="Assets/ReactiveTarget.cs" Line="33" Column="44" />
+      <File FileName="Assets/WanderingAI.cs" Line="40" Column="81" />
+      <File FileName="Assets/SceneController.cs" Line="28" Column="1" />
+      <File FileName="Assets/Fireball.cs" Line="29" Column="34" />
+      <File FileName="Assets/PlayerCharacter.cs" Line="7" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ChapterTwo" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="FPSInput.cs" selected="True" />
+              <Node name="PlayerCharacter.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -18,7 +24,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="08e7add3-c3a0-46b3-a23d-c0a04dc252a1" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a3e45183-b137-4ba9-9996-3830714048c6" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
